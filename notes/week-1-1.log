@@ -1,4 +1,4 @@
-This is XeTeXk, Version 3.1415926-2.2-0.999.7 (Web2C 7.5.7) (format=xelatex 2009.2.11)  4 JUL 2009 01:55
+This is XeTeXk, Version 3.1415926-2.2-0.999.7 (Web2C 7.5.7) (format=xelatex 2009.2.11)  15 JUN 2009 13:02
 entering extended mode
  %&-line parsing enabled.
 **week-1-1.tex
@@ -40,7 +40,7 @@ Package: ifxetex 2008/09/18 v0.4 Provides ifxetex conditional
 \c@zf@script=\count89
 \c@zf@language=\count90
 
-(c:/w32tex/share/texmf/source/latex/tools/calc.sty
+(c:/w32tex/share/texmf/tex/latex/tools/calc.sty
 Package: calc 2005/08/06 v4.2 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count91
 \calc@Bcount=\count92
@@ -81,147 +81,20 @@ LaTeX Info: Redefining \upshape on input line 1078.
 
 fontspec.cfg loaded.
 (c:/w32tex/share/texmf/tex/xelatex/fontspec/fontspec.cfg))
-Package fontspec Info: Minion Pro scale = 0.98627 on input line 5.
-\c@zf@famc@Minion Pro=\count95
-Package fontspec Info: Defining font family for 'Minion Pro' with options [Scal
-e=MatchLowercase,Mapping=tex-text] on input line 5.
-Package fontspec Info: Minion Pro scale = 0.98627 on input line 5.
-Package fontspec Info: Minion Pro scale = 0.98627 on input line 5.
-Package fontspec Info: Minion Pro/B scale = 0.97955 on input line 5.
-Package fontspec Info: Minion Pro/B scale = 0.97955 on input line 5.
-Package fontspec Info: Minion Pro/I scale = 0.95992 on input line 5.
-Package fontspec Info: Minion Pro/I scale = 0.95992 on input line 5.
-Package fontspec Info: Minion Pro/BI scale = 0.95354 on input line 5.
-Package fontspec Info: Minion Pro/BI scale = 0.95354 on input line 5.
-LaTeX Font Info:    Font shape `EU1/MinionPro(0)/m/n' will be
-(Font)              scaled to size 9.86267pt on input line 5.
-Package fontspec Info: Minion Pro scale = 0.98627 on input line 6.
-
-(c:/w32tex/share/texmf/tex/xelatex/url.sty
-\Urlmuskip=\muskip10
-Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
-) (./week-1-1.aux)
-\openout1 = `week-1-1.aux'.
-
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Font shape `EU1/MinionPro(0)/m/n' will be
-(Font)              scaled to size 11.8352pt on input line 11.
-Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid this).
- on input line 11.
-\symlegacymaths=\mathgroup4
-LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 11.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 11.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 11.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 11.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 11.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 11.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 11.
-LaTeX Font Info:    Redeclaring math accent \check on input line 11.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 11.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 11.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 11.
-LaTeX Font Info:    Redeclaring math symbol \colon on input line 11.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 11.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 11.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 11.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 11.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 11.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 11.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 11.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 11.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 11.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 11.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 11.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 11.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 11.
-LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `normal' on input line 11.
-LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> EU1/MinionPro(0)/m/n on input line 11.
-LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `bold' on input line 11.
-LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> EU1/MinionPro(0)/m/n on input line 11.
-
-LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  EU1/MinionPro(0)/m/n --> EU1/MinionPro(0)/m/n on input 
-line 11.
-LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  EU1/MinionPro(0)/m/n --> EU1/MinionPro(0)/m/n on input 
-line 11.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> EU1/MinionPro(0)/m/it on input line 11
-.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> EU1/MinionPro(0)/bx/n on input line 11
-.
-LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> EU1/MinionPro(0)/m/n on input line 11.
-
-LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> EU1/lmtt/m/n on input line 11.
-LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  EU1/MinionPro(0)/m/n --> EU1/MinionPro(0)/bx/n on input
- line 11.
-LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  EU1/MinionPro(0)/m/n --> EU1/MinionPro(0)/bx/n on input
- line 11.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> EU1/MinionPro(0)/bx/it on input line 
-11.
-LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> EU1/MinionPro(0)/bx/n on input line 1
-1.
-LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> EU1/lmtt/bx/n on input line 11.
-LaTeX Font Info:    Try loading font information for EU1+lmtt on input line 14.
-
-
-(c:/w32tex/share/texmf/tex/xelatex/euenc/lm/eu1lmtt.fd
-File: eu1lmtt.fd 2007/01/14 v1.3 Font defs for Latin Modern
-)
-LaTeX Font Info:    Font shape `EU1/MinionPro(0)/m/n' will be
-(Font)              scaled to size 7.89014pt on input line 14.
-LaTeX Font Info:    Font shape `EU1/MinionPro(0)/m/n' will be
-(Font)              scaled to size 5.9176pt on input line 14.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 14.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 14.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 14.
- (./week-1-1.bbl
-LaTeX Font Info:    Font shape `EU1/MinionPro(0)/m/n' will be
-(Font)              scaled to size 17.0427pt on input line 1.
-LaTeX Font Info:    Font shape `EU1/MinionPro(0)/bx/n' will be
-(Font)              scaled to size 16.92667pt on input line 1.
-LaTeX Font Info:    Font shape `EU1/MinionPro(0)/m/it' will be
-(Font)              scaled to size 11.51898pt on input line 5.
-)
-[1
-
-] (./week-1-1.aux) ) 
+! Font \zf@basefont="Minion Pro" at 10.0pt not loadable: Metric (TFM) file or i
+nstalled font not found.
+\zf@fontspec ...ntname \zf@suffix " at \f@size pt 
+                                                  \unless \ifzf@icu \zf@set@...
+l.5 \setmainfont[Mapping=tex-text]{Minion Pro}
+                                              
+? x
+ 
 Here is how much of TeX's memory you used:
- 2354 strings out of 494715
- 47023 string characters out of 1168115
- 123715 words of memory out of 1500000
- 5579 multiletter control sequences out of 10000+50000
- 6488 words of font info for 37 fonts, out of 2000000 for 2000
+ 2129 strings out of 494715
+ 43082 string characters out of 1168115
+ 121006 words of memory out of 1500000
+ 5396 multiletter control sequences out of 10000+50000
+ 3946 words of font info for 16 fonts, out of 2000000 for 2000
  669 hyphenation exceptions out of 8191
- 28i,4n,48p,519b,235s stack positions out of 3000i,500n,5000p,500000b,5000s
-
-Output written on week-1-1.pdf (1 page).
+ 28i,0n,29p,476b,77s stack positions out of 3000i,500n,5000p,500000b,5000s
+No pages of output.

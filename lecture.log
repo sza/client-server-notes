@@ -1,0 +1,178 @@
+This is XeTeXk, Version 3.1415926-2.2-0.999.7 (Web2C 7.5.7) (format=xelatex 2009.2.11)  15 JUN 2009 13:05
+entering extended mode
+ %&-line parsing enabled.
+**lecture.tex
+(./lecture.tex
+LaTeX2e <2005/12/01>
+Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
+yphenation, german-x-2008-06-18, ngerman-x-2008-06-18, ancientgreek, ibycus, ar
+abic, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danish, dutc
+h, esperanto, estonian, farsi, finnish, french, galician, german, ngerman, mono
+greek, greek, hungarian, icelandic, indonesian, interlingua, irish, italian, la
+tin, mongolian, mongolian2a, bokmal, nynorsk, polish, portuguese, romanian, rus
+sian, sanskrit, serbian, slovak, slovenian, spanish, swedish, turkish, ukenglis
+h, ukrainian, uppersorbian, welsh, loaded.
+(c:/w32tex/share/texmf/tex/latex/base/article.cls
+Document Class: article 2005/09/16 v1.4f Standard LaTeX document class
+(c:/w32tex/share/texmf/tex/latex/base/size10.clo
+File: size10.clo 2005/09/16 v1.4f Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(c:/w32tex/share/texmf/tex/xelatex/fontspec/fontspec.sty
+Package: fontspec 2007/09/01 v1.16 Advanced font selection for XeLaTeX
+
+(c:/w32tex/share/texmf/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2008/09/18 v0.4 Provides ifxetex conditional
+)
+\c@zf@newff=\count87
+\c@zf@index=\count88
+\c@zf@script=\count89
+\c@zf@language=\count90
+
+(c:/w32tex/share/texmf/tex/latex/tools/calc.sty
+Package: calc 2005/08/06 v4.2 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count91
+\calc@Bcount=\count92
+\calc@Adimen=\dimen103
+\calc@Bdimen=\dimen104
+\calc@Askip=\skip43
+\calc@Bskip=\skip44
+LaTeX Info: Redefining \setlength on input line 75.
+LaTeX Info: Redefining \addtolength on input line 76.
+\calc@Ccount=\count93
+\calc@Cskip=\skip45
+)
+(c:/w32tex/share/texmf/tex/xelatex/xkeyval/xkeyval.sty
+Package: xkeyval 2005/11/25 v2.5e package option processing (HA)
+
+(c:/w32tex/share/texmf/tex/xelatex/xkeyval/xkeyval.tex
+\XKV@toks=\toks14
+\XKV@depth=\count94
+File: xkeyval.tex 2005/11/25 v2.5e key=value parser (HA)
+
+(c:/w32tex/share/texmf/tex/xelatex/xkeyval/keyval.tex)))
+(c:/w32tex/share/texmf/tex/latex/base/fontenc.sty
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+(c:/w32tex/share/texmf/tex/xelatex/euenc/eu1enc.def
+File: eu1enc.def 2008/03/08 v0.1d Experimental unicode font encoding
+)
+LaTeX Font Info:    Try loading font information for EU1+lmr on input line 100.
+
+
+(c:/w32tex/share/texmf/tex/xelatex/euenc/lm/eu1lmr.fd
+File: eu1lmr.fd 2007/01/14 v1.3 Font defs for Latin Modern
+))
+LaTeX Info: Redefining \itshape on input line 1069.
+LaTeX Info: Redefining \slshape on input line 1072.
+LaTeX Info: Redefining \scshape on input line 1075.
+LaTeX Info: Redefining \upshape on input line 1078.
+
+fontspec.cfg loaded.
+(c:/w32tex/share/texmf/tex/xelatex/fontspec/fontspec.cfg))
+No file lecture.aux.
+\openout1 = `lecture.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for EU1/lmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid this).
+ on input line 12.
+\symlegacymaths=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 12.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 12.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 12.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 12.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 12.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 12.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 12.
+LaTeX Font Info:    Redeclaring math accent \check on input line 12.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 12.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 12.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 12.
+LaTeX Font Info:    Redeclaring math symbol \colon on input line 12.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 12.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 12.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 12.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 12.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 12.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 12.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 12.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 12.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 12.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 12.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 12.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 12.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 12.
+LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
+(Font)              `operators' in the math version `normal' on input line 12.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> EU1/lmr/m/n on input line 12.
+LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
+(Font)              `operators' in the math version `bold' on input line 12.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> EU1/lmr/m/n on input line 12.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  EU1/lmr/m/n --> EU1/lmr/m/n on input line 12.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  EU1/lmr/m/n --> EU1/lmr/m/n on input line 12.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> EU1/lmr/m/it on input line 12.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> EU1/lmr/bx/n on input line 12.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> EU1/lmss/m/n on input line 12.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> EU1/lmtt/m/n on input line 12.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  EU1/lmr/m/n --> EU1/lmr/bx/n on input line 12.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
+(Font)                  EU1/lmr/m/n --> EU1/lmr/bx/n on input line 12.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> EU1/lmr/bx/it on input line 12.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> EU1/lmss/bx/n on input line 12.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> EU1/lmtt/bx/n on input line 12.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 14.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 14.
+[1
+
+] (./lecture.aux) ) 
+Here is how much of TeX's memory you used:
+ 2194 strings out of 494715
+ 44210 string characters out of 1168115
+ 121943 words of memory out of 1500000
+ 5440 multiletter control sequences out of 10000+50000
+ 6432 words of font info for 30 fonts, out of 2000000 for 2000
+ 669 hyphenation exceptions out of 8191
+ 28i,6n,25p,433b,187s stack positions out of 3000i,500n,5000p,500000b,5000s
+
+Output written on lecture.pdf (1 page).
