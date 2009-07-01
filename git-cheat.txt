@@ -8,3 +8,11 @@ git commit # commit into local repository
 
 git commit -a
 
+steps;
+git init
+git add .
+git status
+git commit -m "note" # commit into local repositories
+
+
+
