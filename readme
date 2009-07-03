@@ -1,2 +1,41 @@
 This contain notes, projects, papers for ts6233 courses
 
+Ruby/RoR
+1. install ruby from http://www.ruby-lang.org/en/downloads/
+
+use 1.8.6 if you want hassle-free installation
+
+use 1.8.7/1.9.1 if you want something faster, BUT it require some config. read the documentation carefully.
+
+2. install rubygems
+
+http://rubygems.org/
+
+3. install rails
+
+gem install rails
+
+
+Latex/
+1. install miktex
+
+http://miktex.org/2.7/setup
+
+2. install texmaker
+
+http://www.xm1math.net/texmaker/
+
+Git
+1. download git
+
+http://git-scm.com/download
+
+Download window version.
+
+2. register at github
+
+create a repository
+
+give me the link so I can clone your directory
+
+
