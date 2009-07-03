@@ -14,5 +14,17 @@ git add .
 git status
 git commit -m "note" # commit into local repositories
 
+# remove
+git rm test.txt
+git commit -m "remove test.txt"
+
+# rename
+git mv foo bar
+git commit -m "move foo -> bar"
+
+# clone
+git clone <source> <destination>
+
+
 
 
