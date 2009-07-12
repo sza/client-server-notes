@@ -1,0 +1,14 @@
+\glossaryentry{v1.0> =General:>Initial version}{1}
+\glossaryentry{v1.0a> =General:>Clarified the documentation as per Ming Kin Lai's suggestions}{1}
+\glossaryentry{v1.3> =General:>Added a paragraph about formatting reference lists as per Rennie deGraaf's suggestion}{1}
+\glossaryentry{v1.3> =General:>Updated the paragraph indentation to match the new IEEE Computer Society Press{} specifications.}{5}
+\glossaryentry{v1.3> =General:>Updated the page layout to match the new IEEE Computer Society Press{} specifications.}{6}
+\glossaryentry{v1.1>ieee@helv@x@bold=\verb!*+\ieee@helv@x@bold+:>Converted figure/table captions from roman to boldface. Thanks to Thomas J. Hacker for pointing out the formatting violation.}{7}
+\glossaryentry{v1.2>and=\verb!*+\and+:>Introduced this macro in order to insert blank space between author blocks.}{7}
+\glossaryentry{v1.3b>@maketitle=\verb!*+\@maketitle+:>Corrected the spacing between lines of multiline titles.}{7}
+\glossaryentry{v1.2>@maketitle=\verb!*+\@maketitle+:>Modified to place author blocks in a more aesthetic manner. Thanks to Joey Lawrance for drawing my attention to the unusual-looking formatting used in the previous version of \pkgname  {IEEEconf}.}{8}
+\glossaryentry{v1.2a>@maketitle=\verb!*+\@maketitle+:>Fixed a bug which caused \texttt  {\string\thanks} and \texttt  {\string\footnote} to produce duplicate footnotes. Thanks to M. Rasit Eskicioglu for reporting the duplicate-footnote problem.}{8}
+\glossaryentry{v1.3>callout=\verb!*+\callout+:>Introduced this macro. Thanks to Ming Kin Lai for finding out what a ``callout'' is.}{10}
+\glossaryentry{v1.0b> =General:>Corrected a formatting problem with \texttt  {\string\subsubsection} identified by Ben Ochoa.}{10}
+\glossaryentry{v1.3>dobeforekey=\verb!*+\dobeforekey+:>Introduced this macro.}{12}
+\glossaryentry{v1.3a>extrareflistcode=\verb!*+\extrareflistcode+:>Introduced this macro.}{12}
